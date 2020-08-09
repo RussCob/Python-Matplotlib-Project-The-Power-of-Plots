@@ -1,4 +1,4 @@
-# Matplotlib Project - The Power of Plots
+# Python Matplotlib Project - The Power of Plots
 
 ## Pymaceuticals Inc
 
