@@ -16,7 +16,7 @@ My tasks are to do the following:
 * Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
 # Avg Tumor Volume vs Avg Mouse Weight (Capomulin Regimen)
-![](Images/Avg%20Tumor%20Volume%20vs%20Avg%20Mouse%20Weight%20(Capomulin Regimen).png)
+![](Images/Avg%20Tumor%20Volume%20vs%20Avg%20Mouse%20Weight%20(Capomulin%20Regimen).png)
 
 # Final Tumor Volume by Drugs
 ![](Images/Final%20Tumor%20Volume%20by%20Drugs.png)
