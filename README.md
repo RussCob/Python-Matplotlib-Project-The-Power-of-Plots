@@ -1,4 +1,4 @@
-# Python Matplotlib Project - The Power of Plots
+# Python Matplotlib Project - Pharmaceutical Analysis
 
 ## Pymaceuticals Inc
 
